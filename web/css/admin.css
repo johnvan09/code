@@ -1,0 +1,15 @@
+.sidebar {
+    position: absolute;
+    left: 0;
+    top: 70px;
+    width: 195px;
+    border-left-width: 0;
+}
+
+.main {
+    margin-left: 200px;
+}
+
+#editor {
+    height: 300px;
+}

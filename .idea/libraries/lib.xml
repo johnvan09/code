@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jxl-2.6.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
